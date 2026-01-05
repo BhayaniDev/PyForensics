@@ -7,7 +7,8 @@ PyForensics is a modular, cross-platform digital forensics tool designed to auto
 Why this project? 
 -Built to demonstrate core Digital Forensics concepts (Artifact Parsing, Evidence Integrity, and Reporting) for academic research and SOC automation.
 
-🚀 Key Features
+**🚀 Key Features**
+
 🌐 Browser Forensics: Extracts and analyzes history from Google Chrome and Mozilla Firefox.
 
 🔌 USB Device Forensics: Parses the Windows SYSTEM Registry Hive to identify previously connected USB devices (Manufacturer, Model, Serial Number, Timestamp).
@@ -24,7 +25,8 @@ GUI Mode: User-friendly Tkinter dashboard for point-and-click investigation.
 
 🐧 Cross-Platform: Auto-detects OS (Windows/Linux) and adjusts paths dynamically.
 
-🛠️ Installation & Setup
+**🛠️ Installation & Setup**
+
 Prerequisites
 Python 3.x
 
